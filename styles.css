@@ -10,12 +10,12 @@ body {
 
 button {
   position: absolute;
-  top: 50%;
-  left: 23%;
+  top: 49.5%;
+  left: 23.5%;
   background: #43ac35;
   border: 0;
-  border-radius: 25%;
-  padding: 5px 10px;
+  border-radius: 49%;
+  padding: 5px 15px;
   color: #fff;
 }
 
