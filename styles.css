@@ -8,6 +8,17 @@ body {
   background-size: cover;
 }
 
+button {
+  position: absolute;
+  top: 50%;
+  left: 23%;
+  background: #43ac35;
+  border: 0;
+  border-radius: 25%;
+  padding: 5px 10px;
+  color: #fff;
+}
+
  /* The Modal (background) */
 .modal {
   display: none; /* Hidden by default */
