@@ -65,6 +65,11 @@ button {
     background-size: contain;
     background-repeat: no-repeat;
   }
+
+  button {
+    top: 14%;
+    left: 19%;
+  }
 }
 
 
