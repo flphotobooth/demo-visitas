@@ -59,3 +59,19 @@ button {
   text-decoration: none;
   cursor: pointer;
 } 
+
+@media (max-width: 900px) {
+  .background-image {
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}
+
+
+
+
+
+
+
+
+
